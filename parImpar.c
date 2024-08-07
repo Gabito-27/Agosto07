@@ -12,5 +12,4 @@ int main(){
     else{
         printf("tu numero es impar");
     }
-    
 }
